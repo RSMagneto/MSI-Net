@@ -7,6 +7,7 @@ Building damage estimation in earthquake: A multi-scale interaction network with
 A change detection detection for building damage estimation after earthquake
 
 the dataset is avaliable at：https://pan.baidu.com/s/1FSQz4Dyi-gO0PzV-bu0E9A?pwd=tue1 
+
 The link of Google griver: https://drive.google.com/file/d/1tQFQQXOCkb-2iaF0NhB9u_O45db04HkD/view?usp=sharing
 
 # Introduction of the TUE-CD dataset
