@@ -18,7 +18,7 @@ class FEI(nn.Module):
             nn.ReLU()
         )
 
-    def forward(self,x1,x2,x):
+    def forward(self,x,x1,x2):
         f=self.conv1(x)
         f1=x1*f+x1
         f2=x2*f+x2
